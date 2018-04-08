@@ -1,4 +1,10 @@
 {
   "root": true,
-  "extends": ["plugin:vue-libs/recommended"]
+  "extends": ["plugin:vue-libs/recommended"],
+  "rules": {
+    "semi": 0,
+    "indent": 0,
+    "space-before-function-paren": 0,
+    "prefer-const": 0
+  }
 }
