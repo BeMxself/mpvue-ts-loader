@@ -1,0 +1,7 @@
+.github/
+docs/
+test/
+.babelrc
+.eslintrc
+appveyor.yml
+circle.yml
