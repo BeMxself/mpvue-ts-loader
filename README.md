@@ -14,7 +14,8 @@ new webpack.LoaderOptionsPlugin({
     options: {
         ts: {
             appendTsSuffixTo: [/\.vue$/]
-        }
+        },
+        entry // 即webpack的entry，这里给mpvue-loader使用
     }
 })
 ```
