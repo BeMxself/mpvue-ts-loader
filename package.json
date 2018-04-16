@@ -1,6 +1,6 @@
 {
   "name": "mpvue-ts-loader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "mpvue single-file component loader for Webpack",
   "main": "index.js",
   "repository": {
